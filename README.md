@@ -17,21 +17,28 @@ Payment Gateway Integration using Stripe
 # Screenshots
 
 # 1
+<img width="937" alt="boomerang5" src="https://github.com/user-attachments/assets/42e4acce-9d4c-495d-bc79-d77bc6da3bc3">
+
+# 2
+<img width="917" alt="boomerang6" src="https://github.com/user-attachments/assets/dfb853ba-cc0e-4bcb-84b7-3bc1243a76d9">
+
+
+# 3
 <img width="959" alt="boomerang1" src="https://github.com/user-attachments/assets/e9d5e4ec-b727-4190-92e6-f700ec89897a">
 
 
 
-# 2
+# 4
 <img width="940" alt="boomerang2" src="https://github.com/user-attachments/assets/6ddf336a-2cf1-4a3b-a567-5499145f5b70">
 
 
 
-# 3
+# 5
 <img width="955" alt="boomerang3" src="https://github.com/user-attachments/assets/33f3044d-6634-43b4-b366-baf38c0960f7">
 
 
 
-# 4
+# 6
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/a02efd77-34e8-4785-8413-b49fd764eb0b">
 
 
