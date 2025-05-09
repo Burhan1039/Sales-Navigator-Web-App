@@ -1,4 +1,4 @@
-# Sales Navigator-Web-App
+# Data Scraping-Web-App
 Boomerang is a sales navigator web app with different services and they are as follows:
 
 1- Export Apollo
